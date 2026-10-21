@@ -1,5 +1,11 @@
 # 📊 HR Analytics | Employee Attrition Dashboard
 
+
+## 🌐 Live Dashboard
+
+🚀 [Click Here to Explore the HR Analytics Dashboard](https://supreet-hr-analytics.streamlit.app/)
+
+
 ## Project Overview
 
 An interactive HR Analytics Dashboard developed using Python, Pandas, Plotly, and Streamlit to analyze employee attrition patterns and explore workforce trends.
